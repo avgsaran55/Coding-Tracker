@@ -11,8 +11,10 @@ void fsecondMethod()
     Console.WriteLine("Hello, World! saran one more modification");
     Console.WriteLine("Hello, World! saran one more modification for fetch keywords");
 }
+fsecondMethod();
 void ThirdMethod()
 {
     Console.WriteLine("Hello, World! saran one more modification");
     Console.WriteLine("Hello, World! saran one more modification for fetch keywords");
 }
+ThirdMethod();
